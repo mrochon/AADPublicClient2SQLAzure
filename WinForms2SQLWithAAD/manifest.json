@@ -1,0 +1,49 @@
+{
+  "appId": "e3026887-3b61-4336-b26a-4cce627bf377",
+  "appRoles": [],
+  "availableToOtherTenants": true,
+  "displayName": "WinForms2SQL",
+  "errorUrl": null,
+  "groupMembershipClaims": null,
+  "homepage": null,
+  "identifierUris": [],
+  "keyCredentials": [],
+  "knownClientApplications": [],
+  "logoutUrl": null,
+  "oauth2AllowImplicitFlow": false,
+  "oauth2AllowUrlPathMatching": false,
+  "oauth2Permissions": [],
+  "oauth2RequirePostResponse": false,
+  "passwordCredentials": [],
+  "publicClient": true,
+  "replyUrls": [
+    "https://winforms2sql"
+  ],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "00000002-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "311a71cc-e848-46a1-bdf8-97ff7156d8e6",
+          "type": "Scope"
+        }
+      ]
+    },
+    {
+      "resourceAppId": "022907d3-0f1b-48f7-badc-1ba6abab6d66"
+    }
+  ],
+  "samlMetadataUrl": null,
+  "extensionProperties": [],
+  "objectType": "Application",
+  "objectId": "90ef31b1-4940-4465-9a38-a12ae68b01d1",
+  "deletionTimestamp": null,
+  "createdOnBehalfOf": null,
+  "createdObjects": [],
+  "manager": null,
+  "directReports": [],
+  "members": [],
+  "memberOf": [],
+  "owners": [],
+  "ownedObjects": []
+}
